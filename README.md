@@ -12,5 +12,5 @@ Solution in C#
 
 |Challenge| Solution |
 |--|--|
-|Day 0: Hello, World  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes) |
+|Day 0: Hello, World  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day0HelloWorld) |
 |Day 1: Data Types  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day1DataTypes) |
