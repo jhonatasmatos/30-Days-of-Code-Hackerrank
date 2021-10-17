@@ -18,3 +18,5 @@ Solution in C#
 |Day 3: Conditional Statements  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day3ConditionalStatements) |
 |Day 4: Class vc Instance  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day4ClasseVsInstance) |
 |Day 5: Loops  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day5Loops) |
+|Day 6 Lets Review  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day6LetsReview) |
+|Day 7: Arrays  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day7Arrays) |
