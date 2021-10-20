@@ -20,3 +20,7 @@ Solution in C#
 |Day 5: Loops  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day5Loops) |
 |Day 6 Lets Review  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day6LetsReview) |
 |Day 7: Arrays  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day7Arrays) |
+|Day 8: Dictionaries and Maps  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day8DictionariesAndMaps) |
+|Day 9: Recursion 3  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day9Recursion3) |
+|Day 10: Binary Numbers  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day10BinaryNumbers) |
+|Day 11: 2D Arrays  | [Solution](https://github.com/jhonatasmatos/30-Days-of-Code-Hackerrank/tree/main/CSharpCodes/Day112DArrays) |
